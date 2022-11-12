@@ -1,0 +1,27 @@
+{
+  "name": "codegrunt",
+  "version": "0.0.1",
+  "description": "Writes code for you using AI via @cognosis/platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cognosisai/codegrunt.git"
+  },
+  "author": "Matt Busigin <matt@cognosis.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cognosisai/codegrunt/issues"
+  },
+  "homepage": "https://github.com/cognosisai/codegrunt#readme",
+  "dependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/parser": "^7.20.3",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@cognosis/platform": "^0.5.2",
+    "@types/babel__core": "^7.1.20"
+  }
+}
