@@ -1,4 +1,4 @@
-export * from '@cognosis/platform';
+export * from '@cognosis/platform/dist/activities';
 import { activities } from '@cognosis/platform';
 
 /* 
